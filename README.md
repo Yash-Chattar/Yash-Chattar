@@ -1,185 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=200&section=header&text=Yash%20Chattar&fontSize=62&fontColor=e0d7ff&fontAlignY=38&desc=Web%20Dev%20%C2%B7%20Data%20Analytics%20%C2%B7%20App%20Dev%20%C2%B7%20ML%20Explorer&descSize=15&descColor=a89de0&descAlignY=58&animation=fadeIn" width="100%"/>
+# Hi 👋, I'm Yash Chattar
 
-</div>
+### Data Science & Machine Learning Enthusiast
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=20&pause=1000&color=A89DE0&center=true&vCenter=true&width=620&lines=Web+Developer+🌐+%7C+Data+Analyst+📊+%7C+Learner+🌱;HTML+·+CSS+·+JS+·+Python+·+Java;Power+BI+·+Tableau+·+Flutter+·+Dart;B.Tech+CSE+%40+DYPIU+·+CGPA%3A+8.5;brewing+code+%26+staying+consistent+☕)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
----
-
-<table>
-<tr>
-<td width="55%">
-
-## `> about_me.exe`
-
-```javascript
-const yash = {
-  name: "Yash Chattar",
-  title: "Web Dev · Data Analyst · App Builder",
-  education: [
-    "B.Tech CSE @ DY Patil International University",
-    "CGPA: 8.5 · 4th Semester"
-  ],
-  location: "India 🇮🇳",
-
-  interests: [
-    "Building real-world web projects",
-    "Data Analytics (Power BI & Tableau)",
-    "App Development with Flutter",
-    "AI & Machine Learning basics"
-  ],
-
-  currently: [
-    "Grinding JavaScript & Java",
-    "Solving problems on HackerRank",
-    "Building discipline & consistency 💀"
-  ],
-
-  philosophy:
-    "Build discipline. Stay consistent. Level up."
-};
-```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="border-radius: 12px;"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## `> ls -la ./tech_stack`
-
-<div align="center">
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-2d2b55?style=flat-square&logo=python&logoColor=a89de0)
-![Java](https://img.shields.io/badge/Java_(Basics)-2d2b55?style=flat-square&logo=openjdk&logoColor=e0d7ff)
-![C](https://img.shields.io/badge/C-2d2b55?style=flat-square&logo=c&logoColor=e0d7ff)
-![SQL](https://img.shields.io/badge/SQL-2d2b55?style=flat-square&logo=mysql&logoColor=a89de0)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML-2d2b55?style=flat-square&logo=html5&logoColor=e0d7ff)
-![CSS](https://img.shields.io/badge/CSS-2d2b55?style=flat-square&logo=css3&logoColor=a89de0)
-![JavaScript](https://img.shields.io/badge/JavaScript_(Learning)-2d2b55?style=flat-square&logo=javascript&logoColor=e0d7ff)
-
-### 📱 App Development
-
-![Flutter](https://img.shields.io/badge/Flutter-2d2b55?style=flat-square&logo=flutter&logoColor=a89de0)
-![Dart](https://img.shields.io/badge/Dart-2d2b55?style=flat-square&logo=dart&logoColor=e0d7ff)
-
-### 📊 Data Analytics
-
-![Power BI](https://img.shields.io/badge/Power%20BI-2d2b55?style=flat-square&logo=powerbi&logoColor=e0d7ff)
-![Tableau](https://img.shields.io/badge/Tableau-2d2b55?style=flat-square&logo=tableau&logoColor=a89de0)
-![Pandas](https://img.shields.io/badge/Pandas-2d2b55?style=flat-square&logo=pandas&logoColor=e0d7ff)
-
-### 🤖 AI & ML
-
-![ML](https://img.shields.io/badge/Machine%20Learning_(Basics)-2d2b55?style=flat-square&logo=tensorflow&logoColor=a89de0)
-![AI](https://img.shields.io/badge/AI%20Fundamentals-2d2b55?style=flat-square&logo=openai&logoColor=e0d7ff)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-2d2b55?style=flat-square&logo=git&logoColor=e0d7ff)
-![GitHub](https://img.shields.io/badge/GitHub-2d2b55?style=flat-square&logo=github&logoColor=a89de0)
-![VS Code](https://img.shields.io/badge/VS_Code-2d2b55?style=flat-square&logo=visual-studio-code&logoColor=e0d7ff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-2d2b55?style=flat-square&logo=intellijidea&logoColor=a89de0)
-![Google Colab](https://img.shields.io/badge/Google_Colab-2d2b55?style=flat-square&logo=googlecolab&logoColor=e0d7ff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chattar-273138337/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashchattar8@gmail.com)
 
 </div>
 
 ---
 
-## `> cat ./education.json`
+# 💫 About Me
 
-<div align="center">
-
-| 🎓 Institution | 📚 Qualification | 📈 Score |
-| :------------: | :--------------- | :------: |
-| **D.Y. Patil International University** | B.Tech Computer Science · 4th Sem | **CGPA 8.5** |
-| **Pemraj Sarda College** | Class 12 — Science Stream | **74%** |
-| **Bhausaheb Firodiya High School** | Class 10 | **84%** |
-
-</div>
+- 🔭 Currently working as a **Data Science & Machine Learning Intern** at **Infotact Solutions**, where I have completed **Project 1 (Contextual Predictive Maintenance)** and am currently developing **Project 3 (Geospatial Real Estate Valuation)**.
+- 🎓 Third-Year (5th Semester) **B.Tech CSE** student at **D. Y. Patil International University** with a **CGPA of 8.8**.
+- 🌱 Currently learning **Machine Learning, Data Science, Python, Data Structures & Algorithms, Git/GitHub, and Object-Oriented Programming**.
+- 💬 Ask me about **Python, Machine Learning, Data Analysis, Git, GitHub, and Data Structures**.
 
 ---
 
-## `> tail -f current_focus.log`
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="90%" style="border-radius: 10px;"/>
-
-</td>
-<td width="50%">
-
-```
-  LEARN → BUILD → BREAK → FIX → REPEAT
-  [HackerRank] → [Projects] → [GitHub]
-```
-
-**Active Right Now:**
-
-* 🌐 Improving JavaScript & web projects
-* ☕ Solving DSA on HackerRank
-* 📊 Exploring deeper Data Analytics
-* 🏋️ Building consistency, one day at a time
-
-</td>
-</tr>
-</table>
-
----
-
-## `> git log --stats`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-Chattar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" height="160"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Yash-Chattar&theme=midnight-purple&hide_border=true" height="160"/>
+# 💻 Tech Stack
 
-<br/><br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Chattar&theme=midnight-purple&hide_border=true&layout=donut&count_private=true&cache_seconds=86400" height="180"/>
+<br>
 
-<br/><br/>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Chattar&theme=react-dark&hide_border=true&area=true&point=a89de0&line=7c6fcd&color=e0d7ff" width="95%"/>
+<br>
 
-</div>
-
----
-
-## `> connect.sh`
-
-<div align="center">
-
-<a href="https://github.com/Yash-Chattar">
-  <img src="https://img.shields.io/badge/GitHub-Yash--Chattar-1a1a2e?style=for-the-badge&logo=github&labelColor=2d2b55&color=a89de0"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yash-chattar-273138337">
-  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Chattar-0077B5?style=for-the-badge&logo=linkedin&labelColor=2d2b55"/>
-</a>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -187,14 +52,40 @@ const yash = {
 
 <div align="center">
 
-> *"Still early. Still learning. Not stopping."* ☕
+# 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yash-Chattar&label=Visitors&color=a89de0&style=flat-square)
+![](https://github-readme-stats.shion.dev/api?username=Yash-Chattar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Yash-Chattar&theme=github_dark_dimmed&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-Chattar&theme=github_dark_dimmed&hide_border=false&layout=compact)
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=footer" width="100%"/>
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Yash-Chattar&theme=dark&no-frame=true&no-bg=true&margin-w=15)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔝 Top Contributed Repository
+
+![](https://github-contributor-stats.vercel.app/api?username=Yash-Chattar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Yash-Chattar&style=for-the-badge&color=blue)
 
 </div>
