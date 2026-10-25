@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **Project 3 (Geospatial Real Estate Valuation)** as a Data Science & Machine Learning Intern at **Infotact Solutions** after successfully completing **Project 1 (Contextual Predictive Maintenance)**. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}<br>- 🌱 I'm currently learning **Machine Learning, Data Science, Python, DSA, Git & GitHub, and Object-Oriented Programming**<br>- 👨‍🎓 I'm a **3rd Year (5th Semester)** B.Tech CSE student at **D. Y. Patil International University** with a **CGPA of 8.8**<br>- 💬 Ask me about **Python, Machine Learning, Data Analysis, Git, GitHub, and Data Structures**<br>- 🛠️ Languages: **Python, Java, HTML, CSS, SQL**<br>- ⚡ Tools: **Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, VS Code, Git**
+🌱 I'm currently learning **Machine Learning, Data Science, Python, DSA, Git & GitHub, and Object-Oriented Programming**<br>- 👨‍🎓 I'm a **3rd Year (5th Semester)** B.Tech CSE student at **D. Y. Patil International University** with a **CGPA of 8.8**<br>- 💬 Ask me about **Python, Machine Learning, Data Analysis, Git, GitHub, and Data Structures**<br>- 🛠️ Languages: **Python, Java, HTML, CSS, SQL**<br>- ⚡ Tools: **Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, VS Code, Git**
 
 
 ## 🌐 Socials:
